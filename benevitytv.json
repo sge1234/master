@@ -1,102 +1,102 @@
 {
-  "settingsReloadIntervalMinutes": 1,
+  "settingsReloadIntervalMinutes": 60,
   "fullscreen": true,
   "autoStart": true,
   "websites" : [
     {
       "url" : "https://benevity1.aha.io/published/b91ccc2d5498c6e969e9895c9f24cbe5?page=1",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 10
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/b91ccc2d5498c6e969e9895c9f24cbe5?page=2",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/b91ccc2d5498c6e969e9895c9f24cbe5?page=3",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/d148070028df72e8c05d380771cd3b9e?page=1",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 10
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/d148070028df72e8c05d380771cd3b9e?page=2",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/d148070028df72e8c05d380771cd3b9e?page=3",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/6cf612d569fd5c8a4ae5abe8ca2f1bfb?page=1",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 10
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/6cf612d569fd5c8a4ae5abe8ca2f1bfb?page=2",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/6cf612d569fd5c8a4ae5abe8ca2f1bfb?page=3",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/7b8ee27d649ef31c49a59f036b881245?page=1",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 10
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/7b8ee27d649ef31c49a59f036b881245?page=2",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 3600
     },
 	{
       "url" : "https://benevity1.aha.io/published/7b8ee27d649ef31c49a59f036b881245?page=3",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/7b8ee27d649ef31c49a59f036b881245?page=4",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url" : "https://benevity1.aha.io/published/7b8ee27d649ef31c49a59f036b881245?page=5",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     }, 
  	{
       "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=1",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     }, 
  	{
       "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=2",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     }, 
  	{
       "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=3",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     }, 
  	{
       "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=4",
       "duration" : 15,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     }, 
  	{
       "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=5",
       "duration" : 25,
-      "tabReloadIntervalSeconds": 25
+      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
