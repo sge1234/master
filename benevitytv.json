@@ -97,6 +97,11 @@
       "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=5",
       "duration" : 25,
       "tabReloadIntervalSeconds": 3600
+    }, 
+ 	{
+      "url" : "https://benevity1.aha.io/published/111afd8036e68fa6a562317aa7b950a5?page=6",
+      "duration" : 25,
+      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
